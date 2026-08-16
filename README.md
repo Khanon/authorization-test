@@ -1,2 +1,11 @@
 # angular-nestjs-kafka-webassembly-nx
-Project test for Angular, NestJS, Kafka, WebAssembly and Nx
+Project test fort authorization workflow using OAuth 2.0 and OIDC.
+
+Tech stack
+----------
+Angular
+NestJS
+Kafka
+WebAssembly
+Nx
+Docker

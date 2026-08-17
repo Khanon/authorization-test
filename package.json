@@ -1,0 +1,20 @@
+{
+  "name": "authorization-test",
+  "version": "0.0.0",
+  "description": "Authorization test (Angular, NestJS, Kafka, WebAssembly, Nx, Docker)",
+  "homepage": "https://github.com/Khanon/authorization-test#readme",
+  "bugs": {
+    "url": "https://github.com/Khanon/authorization-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khanon/authorization-test.git"
+  },
+  "license": "ISC",
+  "author": "Khanon",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
